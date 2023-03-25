@@ -1,5 +1,5 @@
 /* eslint-disable */
-export default{
+const data = {
     about:{
       "url-api":"https://dog.ceo/dog-api/documentation/random",
       "categories":[
@@ -124,3 +124,4 @@ export default{
         }
     ]
   }
+  export default data;
